@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e306faaa-daa4-46c4-bf6c-df2cfa1781c7",
+  "id_short": 584362,
+  "published_at": "2026-04-13T19:36:25Z",
+  "repo_name": "all-restaurants-in-texas-us-sample-584362",
+  "sample_asset_name": "beamstation_584362_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/584362/beamstation_584362_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "15894bdc550e9a721284d2b6e3425e46eb8ed398f5faabc248025e832b85ec0e",
+  "sample_size_bytes": 2754256,
+  "total_records": 70758
+}
