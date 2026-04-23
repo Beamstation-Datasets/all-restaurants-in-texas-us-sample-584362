@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Texas. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Texas, US",
-  "export_job_id": "52626e80-91b5-48eb-af2a-c698cfb95599",
+  "export_job_id": "2106061a-188f-4597-8f78-e6a66a3d1f64",
   "github_org": "Beamstation-Datasets",
   "id_short": 584362,
   "location_name": "Texas",
   "location_type": "state",
   "repo_name": "all-restaurants-in-texas-us-sample-584362",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/584362/beamstation_584362_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 1.44,
+  "sample_pct": 1.81,
   "sample_records": 1000,
-  "sample_sha256": "c31c11b94af6b45edc000159f54811963c51ac79bf96ac80807682b57538c96f",
-  "sample_size_bytes": 2348218,
-  "total_records": 69589,
-  "updated_at": "2026-04-16T22:05:12.694832+00:00"
+  "sample_sha256": "2c5779b9a027cd8d53f097be9bb38596e3a6b333ecfbffc83e678be32a2681fd",
+  "sample_size_bytes": 1805934,
+  "total_records": 55114,
+  "updated_at": "2026-04-23T16:54:22.537197+00:00"
 }
